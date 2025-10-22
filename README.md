@@ -124,4 +124,11 @@ Treinamento e Capacitação
 # 📝 Sprint Backlog
 [📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/SprintBacklog_vers%C3%A3o1.pdf)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 📝 Manual do Sistema
+
+[📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/Extensao_Universitaria_MVPDESK_Infografico.pdf)
+
+
 
