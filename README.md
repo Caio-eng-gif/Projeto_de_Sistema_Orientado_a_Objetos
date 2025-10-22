@@ -126,9 +126,17 @@ Treinamento e Capacitação
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+# 📝 Diagramas
+[📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/Diagramas%20mvp%20desk%20atualizado.asta)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 📝 Manual do Sistema
 
 [📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/Extensao_Universitaria_MVPDESK_Infografico.pdf)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
