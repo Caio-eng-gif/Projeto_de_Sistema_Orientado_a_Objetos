@@ -105,12 +105,21 @@ Treinamento e Capacitação
 
 
 ## 🛠️ Ferramentas/Tecnologias
- <img src= "https://github.com/user-attachments/assets/f7f60732-7cef-49c5-ae13-72abda88fc98" alt="GitHub logo" width="50">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d1c9c786-cbb7-4e38-be25-9436536908c7" alt="GitHub logo" width="80">
+  <img src= "https://github.com/user-attachments/assets/f7f60732-7cef-49c5-ae13-72abda88fc98" alt="GitHub logo" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60" height="60"/>
+</p>
 
 
 
  
- <img src="https://github.com/user-attachments/assets/d1c9c786-cbb7-4e38-be25-9436536908c7" alt="GitHub logo" width="80">
+ 
 
 
 
@@ -138,5 +147,8 @@ Treinamento e Capacitação
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+# 📝 Código do Sistema
+[📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/MVP%20Desk%20WEB.rar)
 
 
