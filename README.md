@@ -8,7 +8,7 @@
 
 * 3º Período - Analise e Desenvolvimento de Sistemas
 
-* Projeto - 2° semestre de 2025
+* 2° semestre de 2025
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ Realizar o levantamento e análise de requisitos para a criação de um sistema 
 
 # 📝 Manual do Sistema
 
-[📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/Extensao_Universitaria_MVPDESK_Infografico.pdf)
+[📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/Manual_MVP_Desk_Atualizado.pdf)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
